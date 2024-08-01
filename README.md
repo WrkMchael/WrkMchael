@@ -1,7 +1,7 @@
 <!-- Animasi Teks -->
 <p align="center">
   <a href="https://github.com/WrkMchael">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=27F7D6&center=true&vCenter=true&width=500&height=50&lines=Halo%2C+Saya+adalah+%40root@Mchael!;SSelamat+Datang+di+Profil+GitHub+Saya!;Saya+senang+berkarya+dan+berbagi!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=27F7D6&center=true&vCenter=true&width=500&height=50&lines=Halo%2C+Saya+adalah+%40root@Mchael!;+Selamat+Datang+di+Profil+GitHub+Saya!;Saya+senang+berkarya+dan+berbagi!">
   </a>
 </p>
 
