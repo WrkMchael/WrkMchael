@@ -18,7 +18,6 @@
 ---
 
 <p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue" alt="Python Badge">
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" alt="React Badge">
