@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Michael
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&animation=fadeIn)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WrkMchael&show_icons=true&theme=radical)
 
 <!-- Animasi Teks -->
 <p align="center">
