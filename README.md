@@ -5,15 +5,11 @@
   </a>
 </p>
 
-### 🔥 My GitHub Stats && 🏆 My Achievements:
-<p align="left">
+### 🔥 My GitHub Stats:
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=WrkMchael&show_icons=true&theme=radical" alt="GitHub stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WrkMchael&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 
 ### 🏆 My Achievements:
-![Trophies](https://github-profile-trophy.vercel.app/?username=WrkMchael&theme=radical&no-frame=true&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1)
 
 ---
 
