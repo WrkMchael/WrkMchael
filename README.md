@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Michael
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&animation=fadeIn)
 
@@ -11,9 +11,10 @@
 
 ## 🌱 I'm currently learning...
 
-- **Advanced JavaScript and Frontend Frameworks**: React, Angular
+- **Advanced JavaScript and Frontend Frameworks**: React, Angular, Bootstrap, Tailwind
 - **Backend Development**: Node.js, Express.js
 - **Data Analysis**: Python, R
+- **Fullstack Development**: Laravel
 
 ## 💞️ I'm looking to collaborate on...
 
