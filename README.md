@@ -2,6 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&animation=fadeIn)
 
+<!-- Animasi Teks -->
+<p align="center">
+  <a href="https://github.com/username123">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=27F7D6&center=true&vCenter=true&width=500&height=50&lines=Halo%2C+Saya+adalah+%40username123!;Selamat+Datang+di+Profil+GitHub+Saya!;Saya+senang+berkarya+dan+berbagi!">
+  </a>
+</p>
+
 ## 👀 I'm interested in...
 
 - 🖥️ **Software Development**
